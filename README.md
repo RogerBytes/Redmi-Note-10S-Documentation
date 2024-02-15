@@ -11,7 +11,7 @@
 - [Applications complémentaires](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-APK)
 - [Treble Check (partition a/b)](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-Treble-Check)
 - [Drivers Android Google](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-Android-Drivers)
-- [MicroG](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/V1.0.0-MicroG)
+- [MicroG](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-MicroG)
 - [Mediatek Bootloader Unlock](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-Mediatek-Bootloader-Unlock)
 - [MiFlash Unlock](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-MiFlash-Unlock)
 - [MiFlash](https://github.com/RogerBytes/Redmi-Note-10S-Documentation/releases/tag/v1.0.0-Mi-Flash)
